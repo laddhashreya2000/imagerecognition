@@ -1,0 +1,1 @@
+This contains test data in two different folders cats and dogs(1000+1000 = 2000 images)
